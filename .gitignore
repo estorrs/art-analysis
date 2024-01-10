@@ -1,6 +1,8 @@
 data/
 qupath/
 results/
+.tmp*
+.DS_Store
 
 #
 # Byte-compiled / optimized / DLL files
